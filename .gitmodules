@@ -1,20 +1,16 @@
-[submodule "debug"]
-	path = debug
-	url = ../storage-universal_windows-x64-debug
-	branch = basis
-[submodule "static_debug"]
-	path = static_debug
-	url = ../storage-universal_windows-x64-static_debug
-	branch = basis
-[submodule "static_release"]
-	path = static_release
-	url = ../storage-universal_windows-x64-static_release
-	branch = basis
-[submodule "release"]
-	path = release
-	url = ../storage-universal_windows-x64-release
-	branch = basis
-[submodule "storage-universal_windows-x64-debug"]
-	path = storage-universal_windows-x64-debug
-	url = ../storage-universal_windows-x64-debug
-	branch = basis
+[submodule "Debug"]
+	path = Debug
+	url = ../storage-universal_windows-x64-Debug
+	branch = main
+[submodule "Release"]
+	path = Release
+	url = ../storage-universal_windows-x64-Release
+	branch = main
+[submodule "StaticDebug"]
+	path = StaticDebug
+	url = ../storage-universal_windows-x64-StaticDebug
+	branch = main
+[submodule "StaticRelease"]
+	path = StaticRelease
+	url = ../storage-universal_windows-x64-StaticRelease
+	branch = main
